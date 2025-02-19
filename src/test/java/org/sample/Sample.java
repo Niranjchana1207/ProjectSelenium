@@ -8,5 +8,10 @@ public class Sample {
 		System.out.println("Test1");
 
 	}
+	@Test
+	private void test2() {
+		System.out.println("Test 2");
+
+	}
 
 }
